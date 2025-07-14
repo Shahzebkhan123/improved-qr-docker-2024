@@ -21,7 +21,7 @@ Then I ran the container like this:
 docker run --rm qr-code-generator
 
 My QR Code Image: 
-![My GitHub QR Code](qr_codes/QRCode_20250714225816.png)
+![My GitHub QR Code](qr_codes/QRCode_20250714225843.png)
 
 Log Output (Terminal)
 This was the log message printed to the terminal when I ran the app: 
